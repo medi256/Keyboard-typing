@@ -1,0 +1,27 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    letter-spacing: 4px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+input{
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    letter-spacing: 5px;
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+}
+img:hover{
+    transform: rotate(90deg);
+}
